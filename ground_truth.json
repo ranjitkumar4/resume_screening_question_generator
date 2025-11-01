@@ -1,0 +1,32 @@
+{
+  "resume_1.pdf": {
+    "name": "Ravi Kumar",
+    "email": "ravi.kumar@gmail.com",
+    "phone": "+91-9876543210",
+    "skills": ["Python", "Machine Learning", "SQL", "Pandas"],
+    "experience_years": 5,
+    "current_role": "Data Scientist",
+    "education": "M.Tech in Computer Science",
+    "location": "Bengaluru, India"
+  },
+  "resume_2.pdf": {
+    "name": "Sneha Patel",
+    "email": "sneha.patel@yahoo.com",
+    "phone": "+91-9988776655",
+    "skills": ["Excel", "Power BI", "Tableau", "SQL"],
+    "experience_years": 3,
+    "current_role": "Business Analyst",
+    "education": "MBA in Business Analytics",
+    "location": "Pune, India"
+  },
+  "resume_3.pdf": {
+    "name": "Amit Sharma",
+    "email": "amit.sharma@gmail.com",
+    "phone": "+91-9123456789",
+    "skills": ["Java", "Spring Boot", "REST API", "AWS"],
+    "experience_years": 6,
+    "current_role": "Software Engineer",
+    "education": "B.Tech in Information Technology",
+    "location": "Hyderabad, India"
+  }
+}

@@ -6,3 +6,4 @@ streamlit
 requests
 langchain
 langchain-groq
+pandas

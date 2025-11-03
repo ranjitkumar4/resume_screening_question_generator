@@ -1,0 +1,12 @@
+Job Title: Data Analyst
+Location: San Francisco, CA
+
+Responsibilities:
+- Analyze business data and generate insights to support decision-making.
+- Build dashboards and reports using Python, SQL, and Tableau.
+- Work with cross-functional teams to identify key metrics.
+
+Requirements:
+- 2+ years experience as a Data Analyst
+- Strong knowledge of Python, SQL, Excel
+- Experience with data visualization tools (Tableau, Power BI)

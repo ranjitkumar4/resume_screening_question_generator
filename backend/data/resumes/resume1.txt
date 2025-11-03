@@ -1,0 +1,21 @@
+Name: Alice Johnson
+Email: alice.johnson@example.com
+Phone: 555-123-4567
+
+Summary:
+Detail-oriented Data Analyst with 3 years of experience in analyzing business data, creating dashboards, and supporting decision-making.
+
+Skills:
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL, Excel
+- Data Visualization, Reporting
+- Tableau
+
+Experience:
+Data Analyst | TechCorp | Jan 2021 – Present
+- Developed automated dashboards to track KPIs.
+- Extracted and cleaned data from multiple sources using SQL and Python.
+- Presented insights to management for strategic decisions.
+
+Education:
+B.Sc. in Computer Science | University of California, 2018

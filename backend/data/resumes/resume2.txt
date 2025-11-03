@@ -1,0 +1,21 @@
+Name: Bob Smith
+Email: bob.smith@example.com
+Phone: 555-234-5678
+
+Summary:
+Software Engineer with 4 years of experience building backend systems, APIs, and scalable web applications.
+
+Skills:
+- Python, Java, C++
+- Django, Flask, Spring
+- SQL, PostgreSQL
+- REST APIs, Microservices
+
+Experience:
+Software Engineer | WebSolutions | Mar 2019 – Present
+- Designed and implemented RESTful APIs for e-commerce applications.
+- Optimized database queries to improve performance.
+- Collaborated with frontend developers to integrate APIs.
+
+Education:
+B.Tech in Information Technology | MIT, 2018

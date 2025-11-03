@@ -1,0 +1,21 @@
+Name: Emily Davis
+Email: emily.davis@example.com
+Phone: 555-567-8901
+
+Summary:
+Product Manager with 4 years of experience managing software products, driving roadmap strategy, and coordinating cross-functional teams.
+
+Skills:
+- Product Roadmap Planning
+- Agile / Scrum Methodologies
+- User Research, UX/UI
+- Jira, Confluence
+
+Experience:
+Product Manager | SoftWorks | Feb 2019 – Present
+- Led product development lifecycle for B2B SaaS tools.
+- Conducted user interviews and analyzed feedback to prioritize features.
+- Collaborated with engineering and design teams to deliver high-quality releases.
+
+Education:
+B.A. in Business Administration | NYU, 2017

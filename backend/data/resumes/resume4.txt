@@ -1,0 +1,21 @@
+Name: David Kim
+Email: david.kim@example.com
+Phone: 555-456-7890
+
+Summary:
+Data Scientist with 3 years of experience in machine learning, predictive modeling, and statistical analysis.
+
+Skills:
+- Python, R, SQL
+- Scikit-learn, TensorFlow, PyTorch
+- Data Cleaning, Feature Engineering
+- Visualization (Matplotlib, Seaborn)
+
+Experience:
+Data Scientist | AnalyticsPro | Jan 2020 – Present
+- Built predictive models for customer churn and sales forecasting.
+- Communicated insights to business stakeholders through dashboards.
+- Implemented machine learning pipelines for production deployment.
+
+Education:
+M.Sc. in Data Science | University of Chicago, 2019

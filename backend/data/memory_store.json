@@ -1,0 +1,9 @@
+{
+  "candidate_1": {
+    "parsed_resume": "Here are the extracted details in the requested format:\n\nName: Bob Smith\nEducation: B.Tech in Information Technology, MIT, 2018\nSkills: \n  - Programming languages: Python, Java, C++\n  - Frameworks: Django, Flask, Spring\n  - Databases: SQL, PostgreSQL\n  - APIs and Architecture: REST APIs, Microservices\nExperience: \n  - Software Engineer, WebSolutions (Mar 2019 \u2013 Present, 4 years) \n    - Designed and implemented RESTful APIs for e-commerce applications.\n    - Optimized database queries to improve performance.\n    - Collaborated with frontend developers to integrate APIs.",
+    "jd_match": {
+      "score": 0.288,
+      "summary": "Candidate match score: 28.799999999999997%"
+    }
+  }
+}

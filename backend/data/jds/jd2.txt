@@ -1,0 +1,12 @@
+Job Title: Backend Software Engineer
+Location: Remote
+
+Responsibilities:
+- Design, implement, and maintain backend services and APIs.
+- Optimize database queries and ensure system scalability.
+- Collaborate with frontend and DevOps teams for integration.
+
+Requirements:
+- 3+ years experience in backend development
+- Proficient in Python, Java, and SQL
+- Experience with REST APIs, microservices, and Django or Spring frameworks

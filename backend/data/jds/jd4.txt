@@ -1,0 +1,12 @@
+Job Title: Data Scientist
+Location: Boston, MA
+
+Responsibilities:
+- Develop predictive models and machine learning algorithms.
+- Clean, analyze, and visualize large datasets.
+- Collaborate with business teams to extract actionable insights.
+
+Requirements:
+- 2+ years experience in Data Science
+- Strong skills in Python, R, SQL
+- Experience with ML frameworks like Scikit-learn, TensorFlow, or PyTorch
